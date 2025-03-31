@@ -1,0 +1,20 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Update             KEYWORD2
+Humidity           KEYWORD2
+Humidity_f         KEYWORD2
+Temperature        KEYWORD2
+Temperature_f      KEYWORD2
+
+#######################################
+# Values (KEYWORD3)
+#######################################
+
+Offset_Humidity    KEYWORD3
+Offset_Temperature KEYWORD3
